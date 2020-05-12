@@ -1,0 +1,45 @@
+p{
+	font-size: : 20px;
+	color: #0c7ded;	
+	}
+
+h2{
+	color:red;
+	text-align: left;
+	}
+
+ul{
+	color: #f5f5fa;
+	}
+
+ol{
+	color: green;
+	}
+
+h2,ul,ol{
+	font-size:15px;
+	}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #adada3;
+  padding: 0 20px 20px 20px;
+  border: 2px solid black;
+	}
+
+h1 {
+  margin: 0;
+  padding: 30px 0;    
+  color: #00539F;
+  text-shadow: 2px 2px 1px white;
+  text-align: center;
+  font-size: 60px;
+	}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+	}
